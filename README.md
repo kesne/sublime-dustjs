@@ -1,7 +1,7 @@
 sublime-dustjs
 ==============
 
-Dust.js support for Sublime Text.
+Better Dust.js support for Sublime Text.
 
 ### How to use
 
